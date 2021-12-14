@@ -1,0 +1,26 @@
+body {
+    background-image: url('kockaspapir.jpg');
+    background-position: center top; 
+	background-color: rgb(153, 153, 255);               
+}
+head {
+	background-color: rgb(153, 153, 255);	
+}
+#focim {
+	text-align:center;
+	background-color: rgb(153, 153, 255);
+}
+div {
+    margin: 0 auto 0 auto;
+    width: 640px;
+	background-color: rgb(153, 153, 255);
+}	
+label {
+    width: 60px;
+    display: inline-block;
+}
+input, select {
+    margin: 10px 0;
+    padding: 2px;
+}
+
