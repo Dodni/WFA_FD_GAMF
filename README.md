@@ -1,2 +1,2 @@
 # WFA_FD_GAMF
-school  assignment
+school  test
